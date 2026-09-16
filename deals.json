@@ -592,7 +592,7 @@
    "valuation_text": null,
    "market": "Secondary",
    "valuation_incl_fees_busd": 595.1,
-   "fee_entry_pct": 3.5000000000000004,
+   "fee_entry_pct": 3.5,
    "fee_entry_indicative": true,
    "fee_mgmt_pct": 0.0,
    "fee_carry_pct": 0.0,
