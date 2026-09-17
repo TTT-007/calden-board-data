@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-17T14:03+02:00",
+ "generated_at": "2026-09-17T14:07+02:00",
  "source": "Live",
- "count": 22,
+ "count": 23,
  "listings": [
   {
    "id": "ISOM-DIR-001",
@@ -728,6 +728,39 @@
    "wordmark": null,
    "deal_sheet_url": null,
    "listed_on": "2026-09-16"
+  },
+  {
+   "id": "KALS-DIR-002",
+   "side": "Sell",
+   "status": "Live",
+   "company": "Kalshi",
+   "logo": "logos/kalshi.png",
+   "sector": "Prediction markets",
+   "layer": "L0",
+   "structure": "Direct to cap table",
+   "available_musd": 75.0,
+   "available_text": null,
+   "min_ticket_musd": 25.0,
+   "min_ticket_text": null,
+   "max_ticket_musd": null,
+   "price_per_share_usd": null,
+   "valuation_busd": null,
+   "valuation_text": null,
+   "market": "Secondary",
+   "valuation_incl_fees_busd": null,
+   "fee_entry_pct": 2.0,
+   "fee_entry_indicative": false,
+   "fee_mgmt_pct": 0.0,
+   "fee_carry_pct": 10.0,
+   "fee_text": "2% / 0% / 10%",
+   "counterparty_profile": null,
+   "chain": null,
+   "notes_for_partners": null,
+   "confirmed_on": "2026-09-17",
+   "expires_on": "2026-10-08",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-17"
   }
  ]
 }
