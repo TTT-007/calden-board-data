@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T12:19+02:00",
+ "generated_at": "2026-09-17T12:35+02:00",
  "source": "Live",
  "count": 22,
  "listings": [
@@ -31,7 +31,10 @@
    "chain": "1 intermediary",
    "notes_for_partners": null,
    "confirmed_on": "2026-09-15",
-   "expires_on": "2026-10-06"
+   "expires_on": "2026-10-06",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-15"
   },
   {
    "id": "OPAI-L2-003",
@@ -61,7 +64,10 @@
    "chain": "1 broker",
    "notes_for_partners": null,
    "confirmed_on": "2026-09-15",
-   "expires_on": "2026-10-06"
+   "expires_on": "2026-10-06",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-15"
   },
   {
    "id": "STRP-DIR-002",
@@ -91,7 +97,10 @@
    "chain": "1 introducer",
    "notes_for_partners": null,
    "confirmed_on": "2026-09-15",
-   "expires_on": "2026-10-06"
+   "expires_on": "2026-10-06",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-15"
   },
   {
    "id": "DBRX-DIR-004",
@@ -121,7 +130,10 @@
    "chain": null,
    "notes_for_partners": null,
    "confirmed_on": "2026-09-15",
-   "expires_on": "2026-10-06"
+   "expires_on": "2026-10-06",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-15"
   },
   {
    "id": "DBRX-L1-002",
@@ -151,7 +163,10 @@
    "chain": null,
    "notes_for_partners": null,
    "confirmed_on": "2026-09-15",
-   "expires_on": "2026-10-06"
+   "expires_on": "2026-10-06",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-15"
   },
   {
    "id": "DBRX-L1-005",
@@ -181,7 +196,10 @@
    "chain": null,
    "notes_for_partners": null,
    "confirmed_on": "2026-09-15",
-   "expires_on": "2026-10-06"
+   "expires_on": "2026-10-06",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-15"
   },
   {
    "id": "HELI-DIR-001",
@@ -211,7 +229,10 @@
    "chain": "via Introducer",
    "notes_for_partners": null,
    "confirmed_on": "2026-09-15",
-   "expires_on": "2026-10-06"
+   "expires_on": "2026-10-06",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-15"
   },
   {
    "id": "KALS-DIR-001",
@@ -241,7 +262,10 @@
    "chain": "via Introducer",
    "notes_for_partners": null,
    "confirmed_on": "2026-09-15",
-   "expires_on": "2026-10-06"
+   "expires_on": "2026-10-06",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-15"
   },
   {
    "id": "ETCH-L1-002",
@@ -271,7 +295,10 @@
    "chain": "via Introducer",
    "notes_for_partners": null,
    "confirmed_on": "2026-09-15",
-   "expires_on": "2026-10-06"
+   "expires_on": "2026-10-06",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-15"
   },
   {
    "id": "ATOM-L1-001",
@@ -301,7 +328,10 @@
    "chain": "via Introducer",
    "notes_for_partners": null,
    "confirmed_on": "2026-09-15",
-   "expires_on": "2026-10-06"
+   "expires_on": "2026-10-06",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-15"
   },
   {
    "id": "ATOM-L1-002",
@@ -331,7 +361,10 @@
    "chain": "via Introducer",
    "notes_for_partners": null,
    "confirmed_on": "2026-09-15",
-   "expires_on": "2026-10-06"
+   "expires_on": "2026-10-06",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-15"
   },
   {
    "id": "FWAI-L1-001",
@@ -361,7 +394,10 @@
    "chain": null,
    "notes_for_partners": null,
    "confirmed_on": "2026-09-16",
-   "expires_on": "2026-10-07"
+   "expires_on": "2026-10-07",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-16"
   },
   {
    "id": "FWAI-L1-002",
@@ -391,7 +427,10 @@
    "chain": null,
    "notes_for_partners": null,
    "confirmed_on": "2026-09-16",
-   "expires_on": "2026-10-07"
+   "expires_on": "2026-10-07",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-16"
   },
   {
    "id": "HIGG-L1-001",
@@ -421,7 +460,10 @@
    "chain": null,
    "notes_for_partners": null,
    "confirmed_on": "2026-09-16",
-   "expires_on": "2026-10-07"
+   "expires_on": "2026-10-07",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-16"
   },
   {
    "id": "HIGG-L1-002",
@@ -451,7 +493,10 @@
    "chain": null,
    "notes_for_partners": null,
    "confirmed_on": "2026-09-16",
-   "expires_on": "2026-10-07"
+   "expires_on": "2026-10-07",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-16"
   },
   {
    "id": "SKLD-L1-001",
@@ -481,7 +526,10 @@
    "chain": null,
    "notes_for_partners": null,
    "confirmed_on": "2026-09-16",
-   "expires_on": "2026-10-07"
+   "expires_on": "2026-10-07",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-16"
   },
   {
    "id": "SKLD-L1-002",
@@ -511,7 +559,10 @@
    "chain": null,
    "notes_for_partners": null,
    "confirmed_on": "2026-09-16",
-   "expires_on": "2026-10-07"
+   "expires_on": "2026-10-07",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-16"
   },
   {
    "id": "PHYI-L1-001",
@@ -541,7 +592,10 @@
    "chain": null,
    "notes_for_partners": null,
    "confirmed_on": "2026-09-16",
-   "expires_on": "2026-10-07"
+   "expires_on": "2026-10-07",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-16"
   },
   {
    "id": "PHYI-L1-002",
@@ -571,7 +625,10 @@
    "chain": null,
    "notes_for_partners": null,
    "confirmed_on": "2026-09-16",
-   "expires_on": "2026-10-07"
+   "expires_on": "2026-10-07",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-16"
   },
   {
    "id": "BYTE-L1-001",
@@ -601,7 +658,10 @@
    "chain": "via Introducer",
    "notes_for_partners": null,
    "confirmed_on": "2026-09-16",
-   "expires_on": "2026-10-07"
+   "expires_on": "2026-10-07",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-16"
   },
   {
    "id": "ANTH-BUY-001",
@@ -631,7 +691,10 @@
    "chain": null,
    "notes_for_partners": null,
    "confirmed_on": "2026-09-16",
-   "expires_on": "2026-10-07"
+   "expires_on": "2026-10-07",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-16"
   },
   {
    "id": "ANTH-ASK-001",
@@ -661,7 +724,10 @@
    "chain": null,
    "notes_for_partners": null,
    "confirmed_on": "2026-09-16",
-   "expires_on": "2026-10-07"
+   "expires_on": "2026-10-07",
+   "wordmark": null,
+   "deal_sheet_url": null,
+   "listed_on": "2026-09-16"
   }
  ]
 }
