@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T13:56+02:00",
+ "generated_at": "2026-09-17T14:03+02:00",
  "source": "Live",
  "count": 22,
  "listings": [
@@ -243,7 +243,7 @@
    "sector": "Prediction markets",
    "layer": "L0",
    "structure": "Direct to cap table",
-   "available_musd": null,
+   "available_musd": 500.0,
    "available_text": null,
    "min_ticket_musd": null,
    "min_ticket_text": null,
@@ -670,7 +670,7 @@
    "company": "Anthropic",
    "logo": "logos/anthropic.png",
    "sector": "AI / frontier lab",
-   "layer": null,
+   "layer": "L1",
    "structure": null,
    "available_musd": null,
    "available_text": null,
@@ -703,7 +703,7 @@
    "company": "Anthropic",
    "logo": "logos/anthropic.png",
    "sector": "AI / frontier lab",
-   "layer": null,
+   "layer": "L2",
    "structure": null,
    "available_musd": 15.0,
    "available_text": null,
