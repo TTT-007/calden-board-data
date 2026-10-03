@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T14:40+02:00",
+ "generated_at": "2026-10-03T15:41+02:00",
  "source": "Live",
  "count": 9,
  "listings": [
@@ -275,7 +275,7 @@
    "logo": "logos/deepseek.png",
    "sector": "AI / frontier lab",
    "layer": null,
-   "structure": null,
+   "structure": "L1 or L2",
    "available_musd": 100.0,
    "available_text": null,
    "min_ticket_musd": null,
@@ -293,12 +293,12 @@
    "fee_text": "/ / / / /",
    "counterparty_profile": null,
    "chain": null,
-   "notes_for_partners": null,
-   "confirmed_on": "2026-10-01",
-   "expires_on": "2026-10-22",
+   "notes_for_partners": "Accepts L1 or L2",
+   "confirmed_on": "2026-10-03",
+   "expires_on": "2026-10-24",
    "wordmark": null,
    "deal_sheet_url": null,
-   "listed_on": "2026-10-01"
+   "listed_on": "2026-10-03"
   }
  ]
 }
