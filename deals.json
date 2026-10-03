@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T15:41+02:00",
+ "generated_at": "2026-10-03T15:52+02:00",
  "source": "Live",
  "count": 9,
  "listings": [
@@ -144,7 +144,7 @@
    "sector": "Defense / autonomy",
    "layer": "L1",
    "structure": "SPV L1",
-   "available_musd": 20.0,
+   "available_musd": 7.0,
    "available_text": null,
    "min_ticket_musd": 5.0,
    "min_ticket_text": null,
@@ -162,11 +162,11 @@
    "counterparty_profile": "Cap-table GP (seller)",
    "chain": "Direct to Rep, then GP",
    "notes_for_partners": "Valuation $14B.",
-   "confirmed_on": "2026-10-01",
-   "expires_on": "2026-10-22",
+   "confirmed_on": "2026-10-03",
+   "expires_on": "2026-10-24",
    "wordmark": null,
    "deal_sheet_url": null,
-   "listed_on": "2026-10-01"
+   "listed_on": "2026-10-03"
   },
   {
    "id": "MIST-DIR-001",
