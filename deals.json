@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T16:34+02:00",
+ "generated_at": "2026-10-03T14:40+02:00",
  "source": "Live",
  "count": 9,
  "listings": [
@@ -273,7 +273,7 @@
    "status": "Live",
    "company": "DeepSeek",
    "logo": "logos/deepseek.png",
-   "sector": null,
+   "sector": "AI / frontier lab",
    "layer": null,
    "structure": null,
    "available_musd": 100.0,
